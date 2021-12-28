@@ -11,7 +11,7 @@ class Home extends React.Component {
     posts: [],
     allPosts: [],
     page: 0,
-    postsPerpage: 2,
+    postsPerpage: 3,
     searchValue: "",
   };
 
