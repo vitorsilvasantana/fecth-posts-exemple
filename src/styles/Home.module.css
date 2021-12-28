@@ -1,0 +1,19 @@
+.homeContainer {
+  padding: 32px;
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 100vh;
+  background-color: #eee;
+}
+
+.buttonContainer > button{
+  margin-top: 2rem;
+}
+
+.searchContainer {
+  margin-bottom: 36px;
+}
+
+.searchContainer h1 {
+  margin-bottom: 36px;
+}

@@ -1,0 +1,15 @@
+.buttonElement {
+  width: 100%;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 16px 32px;
+  letter-spacing: 1px;
+  background-color: #43f;
+  text-transform: uppercase;
+}
+
+.buttonElement:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
