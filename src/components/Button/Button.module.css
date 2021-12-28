@@ -5,7 +5,8 @@
   cursor: pointer;
   padding: 16px 32px;
   letter-spacing: 1px;
-  background-color: #43f;
+  border-radius: 10px;
+  background-color: #c03fc1;
   text-transform: uppercase;
 }
 
